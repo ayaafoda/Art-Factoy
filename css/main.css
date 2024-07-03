@@ -271,7 +271,7 @@ header .container .main ul li a {
 }
 
 .landing .container {
-  height: 105vh;
+  height: 110vh;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -592,6 +592,7 @@ header .container .main ul li a {
   margin-top: 10px;
   font-size: 17px;
 }
+<<<<<<< HEAD
 
 
 .trans-img1 {
@@ -674,3 +675,5 @@ header .container .main ul li a {
 .three .container .item .btn {
   margin-top: 15px;
 }
+=======
+>>>>>>> 5633cd6ee8ac742fc2d72f0e7dede5a8e524ab36
